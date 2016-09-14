@@ -8,3 +8,6 @@
 
 ### A Personal View of Computer Science at Berkeley
   * https://www2.eecs.berkeley.edu/bears/CS_Anniversary/karp-talk.html
+ 
+### A Self-told Story of Richard M. Karp
+  * https://github.com/kercker/Turing-Award/blob/master/Mysteries.ppt
