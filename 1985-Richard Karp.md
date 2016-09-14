@@ -11,3 +11,10 @@
  
 ### A Self-told Story of Richard M. Karp
   * https://github.com/kercker/Turing-Award/blob/master/Mysteries.ppt
+
+### Quotes
+  * Three Principles in Making Career Choices
+   * Understand what you are good at and what you like to do, and choose accordingly. In the words of Socrates, “Know thyself.”
+   * Disregard the fashions of the day and search for the new areas of research that are about to become important. In the words of the great hockey player and philosopher Wayne Gretzky, “Skate to where the puck is gonna be.”
+   * To find exciting problems, look at the interfaces between disciplines.
+
